@@ -1,0 +1,5 @@
+*.pyc
+.pyc
+logs/*
+db.sqlite3
+ve_mod3
